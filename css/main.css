@@ -65,10 +65,10 @@ body {
   -webkit-font-smoothing: antialiased; }
 
 ::selection {
-  background: #ff7f00; }
+  background: #8237DB; }
 
 ::-moz-selection {
-  background: #ff7f00; }
+  background: #8237DB; }
 
 a {
   text-decoration: none;
@@ -553,8 +553,8 @@ nav {
     transition:all .3s }
     .navigation__item a:hover {
       color: #FFF;
-      background:#FF7F00;
-      border-color: #FF7F00;
+      background:#8237DB;
+      border-color: #8237DB;
       opacity: 1;
       transition:all .3s; }
 
